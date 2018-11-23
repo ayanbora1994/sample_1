@@ -1,0 +1,23 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.main-nav{
+    display: flex;
+    flex-direction: row;
+    background-color: #298f9b;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px 14px;
+    display: inline-block;
+    color: #fff;
+}
+
+.main-body{
+    max-width: 840px;
+    margin: 5px auto;
+}
