@@ -2,6 +2,8 @@ body,html{
     height: 100%;
     width: 100%;
     margin: 0;
+    padding: 0;
+    background-color: #eee;
 }
 
 .main-nav{
@@ -21,13 +23,18 @@ a{
     color: #fff;
 }
 
+
 footer {
-    background: #4f4f4f;
-    padding:20px;
+    background-color: #298f9b;
+    text-transform: uppercase;
+    text-align: center;
+    padding:10px;
     color:white;
 }
 
 .main-body{
     max-width: 840px;
-    margin: 5px auto;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 10px;
 }
