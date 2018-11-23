@@ -10,11 +10,21 @@ body,html{
     background-color: #298f9b;
 }
 
+.main-body {
+    min-height: 80vh;
+}
+
 a{
     text-decoration: none;
     padding: 10px 14px;
     display: inline-block;
     color: #fff;
+}
+
+footer {
+    background: #4f4f4f;
+    padding:20px;
+    color:white;
 }
 
 .main-body{
